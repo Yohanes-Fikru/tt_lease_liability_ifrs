@@ -1,0 +1,1 @@
+from . import MODEL_NAME_REPORT_XLSX

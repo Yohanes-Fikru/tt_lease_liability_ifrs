@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+  <data>
+
+    <report
+      id="REPORT_ACTION_ID"
+      model="MODEL_NAME"
+      string="MODEL STRING"
+      report_type="xlsx"
+      name="MODEL_NAME.xlsx"
+      file="MODEL_NAME.xlsx"
+      attachment_use="False"
+      />
+
+  </data>
+</openerp>
